@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="jomyers desktop">
+    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="features: implemented page pagination block">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601491689619</updated>
       <workItem from="1601491691089" duration="1805000" />
-      <workItem from="1601497021236" duration="15795000" />
+      <workItem from="1601497021236" duration="23460000" />
     </task>
     <task id="LOCAL-00001" summary="jomyers desktop">
       <created>1601663873507</created>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601663873507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: max-width class container">
+      <created>1601665850014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601665850014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,13 +86,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="jomyers desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="jomyers desktop" />
+    <MESSAGE value="fix: max-width class container" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: max-width class container" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601665682552">
+    <state x="308" y="0" width="1037" height="728" key="CommitChangelistDialog2" timestamp="1601673433961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601665682552" />
+    <state x="308" y="0" width="1037" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601673433961" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1601497056342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -94,6 +102,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601663886124" />
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601672091933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1601672091933" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601497029011">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
