@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jomyers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_font.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Farro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Farro-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Farro-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Farro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blog-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
+    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="jomyers desktop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +61,16 @@
       <option name="presentableId" value="Default" />
       <updated>1601491689619</updated>
       <workItem from="1601491691089" duration="1805000" />
-      <workItem from="1601497021236" duration="14203000" />
+      <workItem from="1601497021236" duration="15795000" />
     </task>
+    <task id="LOCAL-00001" summary="jomyers desktop">
+      <created>1601663873507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601663873507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,16 +78,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="jomyers desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="jomyers desktop" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601663726301">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601665682552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601663726301" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601665682552" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1601497056342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1601497056342" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601663886124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601663886124" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601497029011">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
