@@ -49,7 +49,7 @@ h2, h4, a {
 }
 
 h2 {
-  margin-bottom: 2px;
+  margin: -6px 0 2px;
   font-size: 32px;
   color: #565656;
 }
@@ -88,9 +88,9 @@ a {
 }
 
 .container {
-  max-width: 1280px;
+  max-width: 1250px;
   margin: 0 auto;
-  padding: 0 80px;
+  padding: 0 15px;
 }
 
 .jomyers-blog, .jomyers-pagination {
@@ -103,40 +103,41 @@ a {
 }
 .jomyers-blog-image {
   max-width: 342px;
-  margin-right: 15px;
+  margin-right: 20px;
 }
 .jomyers-blog-description {
   max-width: 684px;
 }
-.jomyers .jomyers-pagination {
+.jomyers-pagination {
   display: flex;
+  max-width: 342px;
 }
-.jomyers .jomyers-pagination li {
+.jomyers-pagination li {
   width: 49px;
   height: 49px;
   margin-right: 10px;
   font-size: 14px;
 }
-.jomyers .jomyers-pagination li:last-of-type {
+.jomyers-pagination li:last-of-type {
   margin: 0;
 }
-.jomyers .jomyers-pagination li.active a {
+.jomyers-pagination li.active a {
   color: rgba(255, 255, 255, 0.75);
   background: rgba(0, 0, 0, 0.8);
 }
-.jomyers .jomyers-pagination li.hidden {
+.jomyers-pagination li.hidden {
   display: none;
 }
-.jomyers .jomyers-pagination li.more {
+.jomyers-pagination li.more {
   background: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.jomyers .jomyers-pagination li.more span {
+.jomyers-pagination li.more span {
   padding-bottom: 6px;
 }
-.jomyers .jomyers-pagination a {
+.jomyers-pagination a {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -146,14 +147,99 @@ a {
   background: #000;
   border-radius: 50%;
 }
-.jomyers .jomyers-pagination a:hover {
+.jomyers-pagination a:hover {
   background: rgba(0, 0, 0, 0.8);
 }
-.jomyers .jomyers-pagination a:active {
+.jomyers-pagination a:active {
   color: rgba(255, 255, 255, 0.75);
 }
-.jomyers .jomyers-pagination .jomyers-pagination-arrow {
+.jomyers-pagination .jomyers-pagination-arrow {
   padding-bottom: 2px;
+}
+
+@media screen and (max-width: 1100px) {
+  h2, h4, p, a {
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin: -6px 0 5px;
+  }
+
+  h4 {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  p, a {
+    font-size: 16px;
+  }
+
+  .jomyers-blog {
+    justify-content: center;
+  }
+  .jomyers-blog-image {
+    max-width: 225px;
+  }
+  .jomyers-blog-description {
+    max-width: 474px;
+  }
+}
+@media screen and (max-width: 767px) {
+  h2, h4, p {
+    text-align: left;
+  }
+
+  h2, h4, a {
+    font-weight: 500;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  h4 {
+    margin-bottom: 10px;
+  }
+
+  p, a {
+    font-size: 14px;
+  }
+
+  p {
+    font-weight: normal;
+  }
+
+  .btn {
+    padding: 10px 44px;
+  }
+
+  .jomyers-blog {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 20px 0 0;
+  }
+  .jomyers-blog-image {
+    max-width: 288px;
+    margin: 0 0 30px;
+  }
+  .jomyers-blog-description {
+    text-align: center;
+  }
+  .jomyers-pagination {
+    max-width: 160px;
+    margin: 0 auto;
+    padding: 20px 0 40px;
+  }
+  .jomyers-pagination li {
+    width: 22px;
+    height: 22px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 5px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
