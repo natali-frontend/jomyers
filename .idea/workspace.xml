@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="fix: max-width class">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="fix: max width blog image for mobiles">
+      <change afterPath="$PROJECT_DIR$/jomyers.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <updated>1601491689619</updated>
       <workItem from="1601491691089" duration="1805000" />
       <workItem from="1601497021236" duration="24017000" />
-      <workItem from="1601908821456" duration="24871000" />
+      <workItem from="1601908821456" duration="27752000" />
     </task>
     <task id="LOCAL-00001" summary="jomyers desktop">
       <created>1601663873507</created>
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602022169243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix: max-width class jomyers-blog-image and jomyers-blog-description">
+      <created>1602181565850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602181565850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,21 +118,22 @@
     <MESSAGE value="features: implemented page pagination block" />
     <MESSAGE value="fix:add variables for colors" />
     <MESSAGE value="jomyers tablet" />
-    <option name="LAST_COMMIT_MESSAGE" value="jomyers tablet" />
+    <MESSAGE value="fix: max-width class jomyers-blog-image and jomyers-blog-description" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: max-width class jomyers-blog-image and jomyers-blog-description" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602180814058">
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602186837828">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602180814058" />
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602186837828" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1601497056342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1601497056342" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602022184845">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602181598432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602022184845" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602181598432" />
     <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601672091933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
