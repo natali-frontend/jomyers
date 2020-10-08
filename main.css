@@ -49,7 +49,7 @@ h2, h4, a {
 }
 
 h2 {
-  margin: -6px 0 2px;
+  margin: -6px 0 5px;
   font-size: 32px;
   color: #565656;
 }
@@ -64,7 +64,7 @@ p {
   font-family: "OpenSans", sans-serif;
   font-size: 18px;
   line-height: 1.63;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
 }
 
 a {
@@ -88,7 +88,7 @@ a {
 }
 
 .container {
-  max-width: 1250px;
+  max-width: 1150px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -102,11 +102,11 @@ a {
   justify-content: space-between;
 }
 .jomyers-blog-image {
-  max-width: 342px;
+  max-width: 30.54%;
   margin-right: 20px;
 }
 .jomyers-blog-description {
-  max-width: 684px;
+  max-width: 61.1%;
 }
 .jomyers-pagination {
   display: flex;
@@ -164,7 +164,6 @@ a {
 
   h2 {
     font-size: 24px;
-    margin: -6px 0 5px;
   }
 
   h4 {
@@ -178,12 +177,6 @@ a {
 
   .jomyers-blog {
     justify-content: center;
-  }
-  .jomyers-blog-image {
-    max-width: 225px;
-  }
-  .jomyers-blog-description {
-    max-width: 474px;
   }
 }
 @media screen and (max-width: 767px) {
@@ -222,10 +215,11 @@ a {
     padding: 20px 0 0;
   }
   .jomyers-blog-image {
-    max-width: 288px;
+    max-width: 100%;
     margin: 0 0 30px;
   }
   .jomyers-blog-description {
+    max-width: 100%;
     text-align: center;
   }
   .jomyers-pagination {

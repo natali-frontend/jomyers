@@ -1,5 +1,6 @@
 @import "./font";
 @import "./colors";
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -21,7 +22,7 @@ h2, h4, a {
 }
 
 h2 {
-  margin: -6px 0 2px;
+  margin: -6px 0 5px;
   font-size: 32px;
   color: #565656;
 }
@@ -36,7 +37,7 @@ p {
   font-family: 'OpenSans', sans-serif;
   font-size: 18px;
   line-height: 1.63;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
 }
 
 a {
@@ -62,7 +63,7 @@ a {
 }
 
 .container {
-  max-width: 1250px;
+  max-width: 1150px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -78,12 +79,12 @@ a {
     justify-content: space-between;
 
     &-image {
-      max-width: 342px;
+      max-width: 30.54%;
       margin-right: 20px;
     }
 
     &-description {
-      max-width: 684px;
+      max-width: 61.1%;
     }
   }
 
@@ -153,7 +154,6 @@ a {
   }
   h2 {
     font-size: 24px;
-    margin: -6px 0 5px;
   }
   h4 {
     font-size: 14px;
@@ -165,17 +165,11 @@ a {
   .jomyers {
     &-blog {
       justify-content: center;
-      &-image {
-        max-width: 225px;
-      }
-      &-description {
-        max-width: 474px;
-      }
     }
   }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) {
   h2, h4, p {
     text-align: left;
   }
@@ -203,18 +197,23 @@ a {
       align-items: center;
       margin-bottom: 20px;
       padding: 20px 0 0;
+
       &-image {
-        max-width: 288px;
+        max-width: 100%;
         margin: 0 0 30px;
       }
+
       &-description {
+        max-width: 100%;
         text-align: center;
       }
     }
+
     &-pagination {
       max-width: 160px;
       margin: 0 auto;
       padding: 20px 0 40px;
+
       li {
         width: 22px;
         height: 22px;
