@@ -242,7 +242,6 @@ p {
   display: flex;
   padding: 56px 0 68px;
   justify-content: space-between;
-  text-align: center;
 }
 .jomyers-about h2 {
   margin-bottom: 25px;
@@ -283,6 +282,7 @@ p {
   }
   .jomyers-about p {
     font-size: 18px;
+    text-align: center;
   }
   .jomyers-about-image {
     max-width: 232px;

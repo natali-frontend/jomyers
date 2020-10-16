@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fonts/farro/Farro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/farro/Farro-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/farro/Farro-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/farro/Farro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/farro/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/openSans/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/openSans/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/openSans/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/openSans/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/openSans/OpenSans-SemiBold.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Farro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Farro-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Farro-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Farro-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OpenSans-SemiBold.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_blog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +91,7 @@
       <workItem from="1601491691089" duration="1805000" />
       <workItem from="1601497021236" duration="24017000" />
       <workItem from="1601908821456" duration="27752000" />
-      <workItem from="1602186923868" duration="19448000" />
+      <workItem from="1602186923868" duration="20727000" />
     </task>
     <task id="LOCAL-00001" summary="jomyers desktop">
       <created>1601663873507</created>
@@ -134,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602625904913</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix: text align class jomyers-about">
+      <created>1602626657790</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602626657790</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,25 +180,26 @@
     <MESSAGE value="fix: max width blog image for mobiles" />
     <MESSAGE value="about desktop" />
     <MESSAGE value="features: About page" />
-    <option name="LAST_COMMIT_MESSAGE" value="features: About page" />
+    <MESSAGE value="fix: text align class jomyers-about" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: text align class jomyers-about" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602621672636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1602621672636" />
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602625904018">
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602626657108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602625904018" />
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602626657108" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1602624397195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1602624397195" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602625915729">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602626666411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602625915729" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602626666411" />
     <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601672091933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
