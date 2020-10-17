@@ -1,0 +1,68 @@
+@import "variables";
+
+.container {
+  max-width: 1116px;
+}
+.jomyers {
+  &-services {
+    a {
+      font-size: 18px;
+    }
+      .btn-services {
+        display: inline-block;
+        font-family: "Noto Sans", sans-serif;
+        color: $color-base;
+        background: $color-main;
+        padding: 25px 0;
+        width: 100%;
+        text-align: center;
+
+        &:hover {
+          background: rgba(0, 0, 0, 0.90);
+        }
+        &:active {
+          color: rgba(255, 255, 255, 0.75);
+        }
+      }
+    &-about {
+      display: flex;
+      justify-content: space-between;
+      background: #EDEDED;
+      padding: 55px 0;
+      &-image {
+        max-width: 18.41%;
+      }
+      &-description {
+        max-width: 75.32%;
+      }
+      h2 {
+        margin-bottom: 20px;
+      }
+      a {
+        font-family: "OpenSans", sans-serif;
+        font-weight: bold;
+        color: $color-main;
+        &:hover {
+          text-decoration: underline;
+          color: rgba(0, 0, 0, 0.80);
+        }
+        &:active {
+          color: rgba(0, 0, 0, 0.65);
+        }
+      }
+    }
+  &-coach {
+    padding: 65px 0;
+    h2 {
+      text-align: center;
+      margin-bottom: 38px;
+    }
+    p {
+      margin-bottom: 25px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+  }
+}

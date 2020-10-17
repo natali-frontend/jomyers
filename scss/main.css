@@ -45,31 +45,37 @@ p {
 
 @font-face {
   font-family: "Farro";
-  src: url("../fonts/Farro-Light.ttf") format("truetype");
+  src: url("../fonts/farro/Farro-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: "Farro";
-  src: url("../fonts/Farro-Regular.ttf") format("truetype");
+  src: url("../fonts/farro/Farro-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Farro";
-  src: url("../fonts/Farro-Bold.ttf") format("truetype");
+  src: url("../fonts/farro/Farro-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "Farro";
-  src: url("../fonts/Farro-Medium.ttf") format("truetype");
+  src: url("../fonts/farro/Farro-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "OpenSans";
-  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+  src: url("../fonts/openSans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("../fonts/notoSans/NotoSans-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -103,13 +109,13 @@ p {
   justify-content: space-between;
 }
 .jomyers-blog h2 {
-  margin: -6px 0 5px;
+  margin: -6px 0 3px;
 }
 .jomyers-blog h4 {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .jomyers-blog p {
-  margin-bottom: 18px;
+  margin-bottom: 15px;
 }
 .jomyers-blog-image {
   max-width: 30.54%;
@@ -292,6 +298,68 @@ p {
     max-width: 100%;
     text-align: center;
   }
+}
+.container {
+  max-width: 1116px;
+}
+
+.jomyers-services a {
+  font-size: 18px;
+}
+.jomyers-services .btn-services {
+  display: inline-block;
+  font-family: "Noto Sans", sans-serif;
+  color: #fff;
+  background: #000;
+  padding: 25px 0;
+  width: 100%;
+  text-align: center;
+}
+.jomyers-services .btn-services:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+.jomyers-services .btn-services:active {
+  color: rgba(255, 255, 255, 0.75);
+}
+.jomyers-services-about {
+  display: flex;
+  justify-content: space-between;
+  background: #EDEDED;
+  padding: 55px 0;
+}
+.jomyers-services-about-image {
+  max-width: 18.41%;
+}
+.jomyers-services-about-description {
+  max-width: 75.32%;
+}
+.jomyers-services-about h2 {
+  margin-bottom: 20px;
+}
+.jomyers-services-about a {
+  font-family: "OpenSans", sans-serif;
+  font-weight: bold;
+  color: #000;
+}
+.jomyers-services-about a:hover {
+  text-decoration: underline;
+  color: rgba(0, 0, 0, 0.8);
+}
+.jomyers-services-about a:active {
+  color: rgba(0, 0, 0, 0.65);
+}
+.jomyers-services-coach {
+  padding: 65px 0;
+}
+.jomyers-services-coach h2 {
+  text-align: center;
+  margin-bottom: 38px;
+}
+.jomyers-services-coach p {
+  margin-bottom: 25px;
+}
+.jomyers-services-coach p:last-child {
+  margin-bottom: 0;
 }
 
 /*# sourceMappingURL=main.css.map */
