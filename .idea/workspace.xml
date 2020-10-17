@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="fix: text align tag p">
-      <change afterPath="$PROJECT_DIR$/fonts/notoSans/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/notoSans/NotoSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/notoSans/NotoSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/notoSans/NotoSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/notoSans/NotoSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_services.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/index.html" afterDir="false" />
+    <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_blog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_font.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_font.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_services.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,7 @@
       <workItem from="1602186923868" duration="29960000" />
       <workItem from="1602945620070" duration="39000" />
       <workItem from="1602945817501" duration="3122000" />
-      <workItem from="1602949202146" duration="2686000" />
+      <workItem from="1602949202146" duration="13477000" />
     </task>
     <task id="LOCAL-00001" summary="jomyers desktop">
       <created>1601663873507</created>
@@ -161,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602872477814</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="services desktop">
+      <created>1602951938402</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602951938402</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,29 +179,34 @@
     <MESSAGE value="features: About page" />
     <MESSAGE value="fix: text align class jomyers-about" />
     <MESSAGE value="fix: text align tag p" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: text align tag p" />
+    <MESSAGE value="services desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="services desktop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602621672636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1602621672636" />
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602943050433">
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602951936915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602943050433" />
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602951936915" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1602624397195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1602624397195" />
+    <state x="516" y="75" key="RollbackChangesDialog" timestamp="1602962180247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="516" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602962180247" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1602949497197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602949497197" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602872575388">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602951967481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602872575388" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602951967481" />
     <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601672091933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

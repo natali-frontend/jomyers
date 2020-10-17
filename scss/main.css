@@ -18,11 +18,11 @@ a {
   text-decoration: none;
 }
 
-h2, h4 {
+h2, h3, h4 {
   font-weight: 500;
 }
 
-h2 {
+h2, h3 {
   font-size: 32px;
   color: #565656;
 }
@@ -306,7 +306,7 @@ p {
 .jomyers-services a {
   font-size: 18px;
 }
-.jomyers-services .btn-services {
+.jomyers-services-btn a {
   display: inline-block;
   font-family: "Noto Sans", sans-serif;
   color: #fff;
@@ -315,51 +315,136 @@ p {
   width: 100%;
   text-align: center;
 }
-.jomyers-services .btn-services:hover {
+.jomyers-services-btn a:hover {
   background: rgba(0, 0, 0, 0.9);
 }
-.jomyers-services .btn-services:active {
+.jomyers-services-btn a:active {
   color: rgba(255, 255, 255, 0.75);
 }
 .jomyers-services-about {
+  background: #EDEDED;
+}
+.jomyers-services-about-content {
   display: flex;
   justify-content: space-between;
-  background: #EDEDED;
   padding: 55px 0;
 }
-.jomyers-services-about-image {
+.jomyers-services-about-content-image {
   max-width: 18.41%;
 }
-.jomyers-services-about-description {
+.jomyers-services-about-content-description {
   max-width: 75.32%;
 }
-.jomyers-services-about h2 {
-  margin-bottom: 20px;
+.jomyers-services-about-content h2 {
+  margin: -6px 0 25px;
 }
-.jomyers-services-about a {
+.jomyers-services-about-content a {
   font-family: "OpenSans", sans-serif;
   font-weight: bold;
   color: #000;
 }
-.jomyers-services-about a:hover {
+.jomyers-services-about-content a:hover {
   text-decoration: underline;
   color: rgba(0, 0, 0, 0.8);
 }
-.jomyers-services-about a:active {
+.jomyers-services-about-content a:active {
   color: rgba(0, 0, 0, 0.65);
 }
 .jomyers-services-coach {
   padding: 65px 0;
 }
-.jomyers-services-coach h2 {
+.jomyers-services-coach h2, .jomyers-services-coach h3 {
   text-align: center;
   margin-bottom: 38px;
+}
+.jomyers-services-coach h2 {
+  font-weight: bold;
 }
 .jomyers-services-coach p {
   margin-bottom: 25px;
 }
 .jomyers-services-coach p:last-child {
   margin-bottom: 0;
+}
+
+@media screen and (max-width: 1100px) {
+  .jomyers-services-btn a {
+    padding: 10px 0;
+  }
+  .jomyers-services h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .jomyers-services h3 {
+    font-size: 20px;
+    margin-bottom: 35px;
+  }
+  .jomyers-services a {
+    font-size: 16px;
+  }
+  .jomyers-services-about-content {
+    justify-content: space-around;
+    padding: 45px 0;
+  }
+  .jomyers-services-about-content h2 {
+    margin-bottom: 10px;
+  }
+  .jomyers-services-about-content p {
+    font-size: 16px;
+  }
+  .jomyers-services-about-content-image {
+    max-width: 23.85%;
+  }
+  .jomyers-services-about-content-description {
+    max-width: 61.39%;
+  }
+  .jomyers-services-coach {
+    padding: 65px 0 50px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .jomyers-services-btn a {
+    padding: 15px 0;
+  }
+  .jomyers-services h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .jomyers-services h3 {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .jomyers-services a {
+    font-size: 14px;
+  }
+  .jomyers-services-about-content {
+    padding: 35px 0 45px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .jomyers-services-about-content h2 {
+    margin-bottom: 15px;
+  }
+  .jomyers-services-about-content p {
+    font-size: 14px;
+  }
+  .jomyers-services-about-content-image {
+    margin: 0 auto 45px;
+    max-width: 46.44%;
+  }
+  .jomyers-services-about-content-description {
+    max-width: 100%;
+  }
+  .jomyers-services-coach {
+    padding: 35px 0 40px;
+  }
+  .jomyers-services-coach p {
+    margin-bottom: 20px;
+  }
+  .jomyers-services-coach p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
