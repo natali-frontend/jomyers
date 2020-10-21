@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7300b5c5-84eb-4d1e-84fd-340b52803670" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_services.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css.map" afterDir="false" />
@@ -74,7 +76,8 @@
       <workItem from="1602186923868" duration="29960000" />
       <workItem from="1602945620070" duration="39000" />
       <workItem from="1602945817501" duration="3122000" />
-      <workItem from="1602949202146" duration="13477000" />
+      <workItem from="1602949202146" duration="20037000" />
+      <workItem from="1603228158992" duration="2886000" />
     </task>
     <task id="LOCAL-00001" summary="jomyers desktop">
       <created>1601663873507</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602951938402</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="services tablet and mobiles">
+      <created>1602967780413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602967780413</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,17 +190,22 @@
     <MESSAGE value="fix: text align class jomyers-about" />
     <MESSAGE value="fix: text align tag p" />
     <MESSAGE value="services desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="services desktop" />
+    <MESSAGE value="services tablet and mobiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="services tablet and mobiles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602621672636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="55" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1602621672636" />
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1602951936915">
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2" timestamp="1603258056890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602951936915" />
+    <state x="308" y="82" width="1037" height="646" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603258056890" />
+    <state x="258" y="96" key="DiffContextDialog" timestamp="1603258047727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="96" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1603258047727" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1602624397195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,14 +214,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="516" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602962180247" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1602949497197">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1603228590432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602949497197" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602951967481">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603228590432" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602967790773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602951967481" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602967790773" />
     <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601672091933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
